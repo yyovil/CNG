@@ -1,3 +1,10 @@
 .direnv
 script.txt
 draft.md
+*.mp4
+.cng
+.pip-cache
+.venv
+.conductor
+.env
+*.srt
